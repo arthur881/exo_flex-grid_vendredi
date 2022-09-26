@@ -3,9 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-html {
-    color: #fff;
-}
 .flexLayout {
     width: 100%;
     height: 100vh;
@@ -105,4 +102,5 @@ html {
     align-items: center;
     justify-content: center;
     font-size: 3em;
+    color: #fff;
 }
